@@ -58,12 +58,16 @@ O procedimento de depuração adotado seguiu as seguintes etapas:
 
 ---
 
-👥 **Contribuidores do Projeto**
+# Contribuidores do Projeto
+## 👥 Contribuidores
 
-| Nome                  | GitHub                                           |
-|-----------------------|--------------------------------------------------|
-| Luan Cesar Costa de Lima | [@luancosta](https://github.com/luancosta)        |
-| [adicione aqui os colegas, se houver] | [@usuario](https://github.com/usuario) |
+| Nome                    | GitHub                                                     |
+|-------------------------|------------------------------------------------------------|
+| Nicolas Brunismann      | [@nicolasbrunismann](https://github.com/NicoDemosaS)       |
+| Gustavo Magagnin        | [@gustavomagagnin](https://github.com/Magagnin)            |
+| Luan Costa              | [@luancosta](https://github.com/iRasec)                    |
+| Shara Palharini Lima    | [@sharapalharini](https://github.com/splhyy)               |
+| Diego Mathias           | [@diegomathias](https://github.com/diegomathiasDD)         |
 
 ---
 

@@ -58,16 +58,19 @@ O procedimento de depuração adotado seguiu as seguintes etapas:
 
 ---
 
-Contribuidores do Projeto
-👥 Contribuidores
-Nome 	GitHub
-Nicolas Brunismann 	@nicolasbrunismann
-Gustavo Magagnin 	@gustavomagagnin
-Luan Costa 	@luancosta
-Shara Palharini Lima 	@sharapalharini
-Diego Mathias 	@diegomathias
+👥 **Contribuidores do Projeto**
+
+| Nome                  | GitHub                                           |
+|-----------------------|--------------------------------------------------|
+| Luan Cesar Costa de Lima | [@luancosta](https://github.com/luancosta)        |
+| [adicione aqui os colegas, se houver] | [@usuario](https://github.com/usuario) |
+
+---
 
 **Professor:** Everton Coimbra De Araujo  
 **Curso:** Bacharelado em Ciência da Computação  
 **Instituição:** Universidade Tecnológica Federal do Paraná – Campus Medianeira  
+---
 
+## Licença
+Este projeto está disponível sob a licença **MIT**.

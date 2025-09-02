@@ -58,8 +58,15 @@ O procedimento de depuração adotado seguiu as seguintes etapas:
 
 ---
 
-## Identificação
-**Autor:** Luan Cesar Costa de Lima  
+Contribuidores do Projeto
+👥 Contribuidores
+Nome 	GitHub
+Nicolas Brunismann 	@nicolasbrunismann
+Gustavo Magagnin 	@gustavomagagnin
+Luan Costa 	@luancosta
+Shara Palharini Lima 	@sharapalharini
+Diego Mathias 	@diegomathias
+
 **Professor:** Everton Coimbra De Araujo  
 **Curso:** Bacharelado em Ciência da Computação  
 **Instituição:** Universidade Tecnológica Federal do Paraná – Campus Medianeira  
